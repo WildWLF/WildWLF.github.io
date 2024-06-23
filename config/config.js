@@ -77,7 +77,7 @@ var config = {
      */
     portfolio: [
         ["","","",""],
-        ["./images/pro.png", "https://github.com/WildWLF/-OpenCV-", "基于OpenCV的铁轨位移检测", "采用C++基于OpenCV编写的铁轨位移检测项目<br>2023/6/13"],
+        ["./images/pro.jpg", "https://github.com/WildWLF/-OpenCV-", "基于OpenCV的铁轨位移检测", "采用C++基于OpenCV编写的铁轨位移检测项目<br>2023/6/13"],
         ["","","",""]
     ],
 
